@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='pathology',
+setup(name='test_pyton_library',
       version='0.1',
       author='temp',
       author_email='temp',
